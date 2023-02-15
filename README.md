@@ -1,6 +1,11 @@
 # LATIHAN2DPBO2023
 Latihan 2 Desain Pemrograman Berorientasi Objek
 
+Saya [Azzahra Alika Putri Yudha] [2105899]
+mengerjakan LATIHAN 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
+Aamiin.
+
 dilatihan ini mengimplementasikan multi level inheritance atau keturunan.
 
 ada 3 class 
