@@ -9,12 +9,15 @@ Aamiin.
 Dilatihan ini mengimplementasikan multi level inheritance atau keturunan.
 
 Ada 3 class 
-1. **class Human**\n
+1. **class Human**
+   
    Dimana Human adalah orangtua dari Mahasiswa yang mempunyai 3 atribut yaitu nik, nama dan jenis kelamin
    dijadikan orangtua karna ada atribut di anaknya yg sama jadi human dijadikan orangtua dari mahasiswa
-2. **class Mahasiswa**\n
+2. **class Mahasiswa**
+   
    Dimana Mahasiswa adalah orangtua dari Sivitas Akademik dan anak dari Human mempunyai 2 atribut private fakultas dan prodi
 3. **class SivitasAkademik**
+   
    Dimana Sivitas akademik adalah anak dari Mahasiswa dan cucu dari Human dimana mempunyai 2 atribu private universitas dan email
    kenapa dijadikan cucu karna dia mencakup mahasiswa dan human
    
