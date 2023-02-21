@@ -1,6 +1,4 @@
 # LATIHAN2DPBO2023
-Latihan 2 Desain Pemrograman Berorientasi Objek
-
 ## JANJI
 Saya [Azzahra Alika Putri Yudha] [2105899]
 mengerjakan LATIHAN 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek
@@ -8,19 +6,19 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 Aamiin.
 
 ## DESAIN PROGRAM
-dilatihan ini mengimplementasikan multi level inheritance atau keturunan.
+Dilatihan ini mengimplementasikan multi level inheritance atau keturunan.
 
-ada 3 class 
+Ada 3 class 
 1. **class Human**
-   dimana Human adalah orangtua dari Mahasiswa yang mempunyai 3 atribut yaitu nik, nama dan jenis kelamin
+   Dimana Human adalah orangtua dari Mahasiswa yang mempunyai 3 atribut yaitu nik, nama dan jenis kelamin
    dijadikan orangtua karna ada atribut di anaknya yg sama jadi human dijadikan orangtua dari mahasiswa
 2. **class Mahasiswa**
-   dimana Mahasiswa adalah orangtua dari Sivitas Akademik dan anak dari Human mempunyai 2 atribut private fakultas dan prodi
+   Dimana Mahasiswa adalah orangtua dari Sivitas Akademik dan anak dari Human mempunyai 2 atribut private fakultas dan prodi
 3. **class SivitasAkademik**
-   dimana Sivitas akademik adalah anak dari Mahasiswa dan cucu dari Human dimana mempunyai 2 atribu private universitas dan email
+   Dimana Sivitas akademik adalah anak dari Mahasiswa dan cucu dari Human dimana mempunyai 2 atribu private universitas dan email
    kenapa dijadikan cucu karna dia mencakup mahasiswa dan human
    
-class Mahasiswa menjadi anak dari class Human karena terdapat atribut yang redundan dan bisa dijadikan atribut dari class Human. Sedangkan untuk class Sivitas Akademik menjadi cucu karena dia hanya memiliki 2 atribut yaitu email dan universitas yang dimana 2 atribut tersebut bergantung sama class Human dan Mahasiswa agar fungsi dari atributnya jelas. 
+Class Mahasiswa menjadi anak dari class Human karena terdapat atribut yang redundan dan bisa dijadikan atribut dari class Human. Sedangkan untuk class Sivitas Akademik menjadi cucu karena dia hanya memiliki 2 atribut yaitu email dan universitas yang dimana 2 atribut tersebut bergantung sama class Human dan Mahasiswa agar fungsi dari atributnya jelas. 
 
 ## ALUR PROGRAM
 Alur program yang dibuat pada keempat bahasa sama, yaitu untuk masukkannya semua di hardcode. 
